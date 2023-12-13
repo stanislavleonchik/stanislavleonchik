@@ -3,7 +3,7 @@
 
 **About me** | **Technology Stack** | **Projects**
 ----------------------- | ----------------------- | -----------------------
-🧑🏼‍💻 iOS Engineer;<br>🏎 Coding in Swift; | Swift, UIKit, SwiftUI, Git, GraphQL, PostgreSQL | [TheLight](https://github.com/stanislavleonchik/TheLight)<br>[ApplePie](https://github.com/stanislavleonchik/ApplePie)<br><br><br><br>
+🧑🏼‍💻 iOS Engineer;<br>🏎 Coding in Swift; | Swift, UIKit, SwiftUI, GraphQL, PostgreSQL | [TheLight](https://github.com/stanislavleonchik/TheLight)<br>[ApplePie](https://github.com/stanislavleonchik/ApplePie)<br><br><br><br>
 <!--
 **stanislavleonchik/stanislavleonchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
